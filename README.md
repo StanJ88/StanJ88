@@ -43,16 +43,7 @@ Développeur et concepteur d'application Web - Reconversion - Fullstack
 
 ---
 
-<table><tr>
-<td valign="top">
-<h4>💻 Langages les plus utilisés</h4>
-<img alt="Langages les plus utilisés" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StanJ88&layout=compact&theme=dracula" />
-</td>
-<td valign="top">
-<h4>🔥 Série de contributions</h4>
-<img alt="Série de contributions" src="https://streak-stats.demolab.com?user=StanJ88&theme=dracula&hide_border=true" />
-</td>
-</tr></table>
+
 
 ---
 
