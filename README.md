@@ -39,9 +39,6 @@ Développeur et concepteur d'application Web - Reconversion - Fullstack
 </tr></table>
 
 ## 📊 Statistiques GitHub
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=StanJ88&show_icons=true&theme=default)
-
----
 
 
 
